@@ -28,3 +28,5 @@ http://gbatemp.net/threads/wip-sm4sh-turbod-every-fighter-made-turbo.423192/
 Ganondorf
 
 Ryu
+
+Jigglypuff
