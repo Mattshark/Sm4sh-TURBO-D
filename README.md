@@ -32,3 +32,5 @@ Ryu
 Jigglypuff
 
 Mario
+
+Pac-Man
