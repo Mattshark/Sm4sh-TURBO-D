@@ -30,3 +30,5 @@ Ganondorf
 Ryu
 
 Jigglypuff
+
+Mario
