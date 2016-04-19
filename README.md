@@ -54,3 +54,7 @@ Ryu (Mattshark)
 Cloud (justinbug2)
 
 Corrin (justinbug2)
+
+LittleMac (justinbug2)
+
+Zelda (Awesomeness)
