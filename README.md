@@ -40,3 +40,15 @@ Link
 Ness
 
 Cloud
+
+Captain Falcon
+
+Duck Hunt
+
+Game & Watch
+
+Corrin
+
+Sonic
+
+Villager
