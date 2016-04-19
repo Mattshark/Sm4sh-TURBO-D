@@ -14,9 +14,11 @@ http://gbatemp.net/threads/smash-3ds-complete-rom-hacking-guide-textures-music-s
 
 Once that's set up, click on the DOWNLOAD ZIP file at the top right of this github page to download the fighters.
 
-Then, on your SD card, drag the "animcmd" file (included in the download) inside your SaltySD\smash\ directory. (Create folder named "SaltySD", enter it, Create "smash" folder, enter it, drag the folder "animcmd" into here)
+Then, on your SD card, drag the "animcmd" and "cache.bin" files (included in the download) inside your SaltySD\smash\ directory. (Create folder named "SaltySD", enter it, Create "smash" folder, enter it, drag the folder "animcmd" and the file "cache.bin" into here)
 
-Regenerate your cache, and you're done! (If you don't know how to "generate the cache" or haven't done that before, you can ignore this step; It just makes loading times faster, see the GbaTemp Link above for more info)
+Run Smash to see if it works!
+
+NOTE: This download includes a cache.bin File! In other words, ANY OTHER HACKS YOU PUT INTO YOUR SALTYSD FOLDER WILL NOT LOAD! To load this mod alongside any other mods you may have, you'll have to regenerate your own cache.bin file; See the tutorial link from before for more info regarding this. (Find "cachegen.py")
 
 # GbaTemp Thread
 
