@@ -58,3 +58,5 @@ Corrin (justinbug2)
 LittleMac (justinbug2)
 
 Zelda (Awesomeness)
+
+King Dedede (WarioTails358)
