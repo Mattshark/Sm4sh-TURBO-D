@@ -14,7 +14,7 @@ http://gbatemp.net/threads/smash-3ds-complete-rom-hacking-guide-textures-music-s
 
 Once that's set up, click on the DOWNLOAD ZIP file at the top right of this github page to download the fighters.
 
-Then, on your SD card, drag the "animcmd" and "cache.bin" files (included in the download) inside your SaltySD\smash\ directory. (Create folder named "SaltySD", enter it, Create "smash" folder, enter it, drag the folder "animcmd" and the file "cache.bin" into here)
+Then, on your SD card, drag the "animcmd", "ui", and "cache.bin" files (included in the download) inside your SaltySD\smash\ directory. (Create folder named "SaltySD", enter it, Create "smash" folder, enter it, drag the three files mentioned into here)
 
 Run Smash to see if it works!
 
@@ -60,3 +60,31 @@ LittleMac (justinbug2)
 Zelda (Awesomeness)
 
 King Dedede (WarioTails358)
+
+Wii Fit Trainer (justinbug2)
+
+Fox (justinbug2)
+
+Roy (justinbug2)
+
+Bowser (justinbug2)
+
+R.O.B. (justinbug2)
+
+Lucas (GoldenEpic)
+
+Falco (justinbug2)
+
+Lucario (justinbug2)
+
+Ike (justinbug2)
+
+Samus (justinbug2)
+
+Robin (GudPiggeh)
+
+Dr. Mario (justinbug2)
+
+Kirby (justinbug2)
+
+Wario (justinbug2)
