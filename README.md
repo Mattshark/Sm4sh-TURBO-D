@@ -88,3 +88,7 @@ Dr. Mario (justinbug2)
 Kirby (justinbug2)
 
 Wario (justinbug2)
+
+Pikachu (justinbug2)
+
+Yoshi (justinbug2)
