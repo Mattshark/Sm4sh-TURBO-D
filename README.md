@@ -6,6 +6,8 @@ My first ever project, github, and community collection!
 
 Currently 3ds Only, since I don't have a hacked WiiU to test any fighters there...
 
+Special Thanks to justinbug2 for a majority of these uploads!
+
 # Installation
 
 This project was made with SaltySD in mind; If you don't know what this is, check the "Applying Patches" Section here:
@@ -92,3 +94,5 @@ Wario (justinbug2)
 Pikachu (justinbug2)
 
 Yoshi (justinbug2)
+
+More than this have been added; Just awaiting a few final uploads!
